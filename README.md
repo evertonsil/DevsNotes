@@ -1,5 +1,9 @@
 <h2>DevsNotes: (Sistema de Anotações)</h2>
 
+Este projeto foi desenvolvido com base no curso de PHP do B7Web, a partir das aulas sobre API.
+Com uma interface gráfica com Bootstrap possibilitando criar, editar e excluir anotações via API, interagindo com o banco de dados.
+Utilizado PHP 7 e MySql 8.
+
 O que o proejeto precisa fazer?
   
     - Listar as anotações;
@@ -34,6 +38,4 @@ No PHP Estruturado
     - (DELETE) /api/note/id  --  /api/delete.php (id)
 
 
-Este projeto foi desenvolvido com base no curso de PHP do B7Web, a partir das aulas sobre API.
-Com uma interface gráfica com Bootstrap possibilitando criar, editar e excluir anotações via API, interagindo com o banco de dados.
-Utilizado PHP 7 e MySql 8.
+
